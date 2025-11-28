@@ -1,4 +1,4 @@
-# TravelAgency
+# TravelAgencyProject
 
 A travel agency app for managing insurance policies of family trips with blogging capabilities. The app leverages several modern technologies and libraries.
 
